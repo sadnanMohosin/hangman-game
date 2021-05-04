@@ -1,6 +1,6 @@
 # hangman-game
 
-                          ("You loose")
+                        ("You loose")
                  ("You let a kind man die")
                      ("  --------  ")
                      ("     O_|    ")
